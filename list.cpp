@@ -6,11 +6,11 @@ int main()
     list <int> LI;
     list <int>::iterator it;
     //inserts elements at end of list
-    LI.push_back(4);
-    LI.push_back(5);
+    //LI.push_back(4);
+    //LI.push_back(5);
 
     //inserts elements at beginning of list
-    LI.push_front(3);
+    //LI.push_front(3);
     LI.push_front(5);
 
     //returns reference to first element of list
