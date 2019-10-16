@@ -37,7 +37,7 @@ int main()
     cout<<endl;
 
     //removes all occurences of 5 from list
-    LI.remove(4);
+    LI.remove(5);
 
     cout<<"Elements after removing all occurence of 5 from List"<<endl;
     for(it = LI.begin();it!=LI.end();it++)
